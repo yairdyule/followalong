@@ -1,4 +1,7 @@
 # followalong
 A repo for my students &amp; I to work along in
 
-Wow! We've made it!ffffffffff
+Wow! We've made it!
+
+
+Jon has a really great clock, Tyler too.
